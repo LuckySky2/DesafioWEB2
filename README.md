@@ -4,7 +4,7 @@ Subir o Desafio Web 1 para um ambiente virtual com Flask
 
 ## Como Rodar:
 <p>Faça o download do repositório</p>
-Abra o CMD na pasta raiz do repositório e digite os comandos:
+Abra o CMD na pasta raiz do repositório e digite esses comandos:
 <hr>
 <p>python -m venv venv</p>
 <p>.\venv\Scripts\activate</p>
